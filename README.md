@@ -1,4 +1,4 @@
-# EChartDrillMap
+# echarts-drill-map
 基于ECharts地图下钻
 
 1. echarts地图全国省市区县级的一个三级联动
